@@ -3,7 +3,7 @@ import openai
 import tiktoken
 
 # Don't give this to anyone.
-openai.api_key = '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'
+openai.api_key = ''
 
 messageList = [
     {"role": "system", "content": "You are a helpful assistant."},
